@@ -1,4 +1,8 @@
 # News
+## 2017-04-04
+* Web inventor Sir Tim Berners-Lee slams UK and US net plans
+  * http://www.bbc.com/news/technology-39490324
+
 ## 2017-03-30
 * Kids learn computer coding during spring break camp
   * http://www.10news.com/news/kids-learn-computer-coding-during-spring-break-camp
