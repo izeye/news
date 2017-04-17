@@ -14,3 +14,5 @@
 # YouTube
 * An Inconvenient Sequel: Truth To Power Trailer (2017) Official - Paramount Pictures
   * https://www.youtube.com/watch?v=huX1bmfdkyA
+* Trump tells Bartiromo He Struck Syria Over Chocolate Cake
+  * https://www.youtube.com/watch?v=4eSz8GM5hvM
